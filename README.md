@@ -31,10 +31,11 @@ I am an engineering student passionate about **Artificial Intelligence, Machine 
 
 ---
 
-### 📊 [Daily Mood Tracker (Full Stack App)](#) *(Planned)*  
-✔ A simple app where users log their mood daily.  
-✔ Stack: *Frontend (HTML, CSS, JavaScript), Backend (Flask/SQLite), Data Analysis (Python)*  
-✔ Helps track mental health trends over time.  
+### 📚 [Document AI with Memory](https://github.com/saadalikhan8055/document_ai_app)  
+✔ An **AI-powered assistant** that reads documents (PDFs, DOCX, TXT) and answers questions interactively.  
+✔ Uses **LangChain, Transformers, and Vector Databases (FAISS/ChromaDB)** to provide long-term memory and context-aware responses.  
+✔ Applications: *Study assistant, research summarizer, and knowledge retrieval tool*.  
+  
 
 ---
 
