@@ -58,9 +58,9 @@
 
 ### 🤝 Let’s Connect & Collaborate
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/saad-khan-7042901b8/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://twitter.com/saadalikhan8055"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/></a>
+  <a href="mailto:saadalikhan8055@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
