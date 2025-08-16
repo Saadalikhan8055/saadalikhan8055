@@ -9,7 +9,7 @@
 - 🔭 Currently building **AI-powered Resume ATS & Document Reader AI with Memory**  
 - 🌱 Learning **MLOps, Deployment (Docker, FastAPI, Streamlit)**  
 - 💬 Ask me about **Python, Machine Learning, NLP, AI Applications**  
-- 📫 Reach me at: **your.email@example.com**  
+- 📫 Reach me at: **saadalikhan8055@gmail.com**  
 - ⚡ Fun fact: I love automating boring stuff and making AI do the heavy lifting 😎  
 
 ---
