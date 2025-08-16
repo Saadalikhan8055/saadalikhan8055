@@ -72,7 +72,7 @@ Git | Docker | Jupyter | VS Code | Anaconda | Linux
 ---
 
 ## 🌐 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/saad-khan-7042901b8/)  
+- 💼 Linkedin [saadalikhan8055](https://www.linkedin.com/in/saad-khan-7042901b8/)  
 - 🐦 Twitter: [@saadalikhan8055](https://x.com/saadalikhan8055)  
 - 📧 Email: saadalikhan8055@gmail.com  
 
