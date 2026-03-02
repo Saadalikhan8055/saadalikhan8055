@@ -210,7 +210,17 @@ Premium animated developer portfolio featuring 3D elements via Three.js, scroll-
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=saadalikhan8055&theme=onestar&no-frame=true&row=1&column=7&margin-w=10" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=saadalikhan8055&theme=nord&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+
+</div>
+
+<div align="center">
+
+![Commits](https://img.shields.io/badge/Total_Commits-500+-00FFB3?style=for-the-badge&labelColor=0D1117)
+![Repos](https://img.shields.io/badge/Public_Repos-20+-00FFB3?style=for-the-badge&labelColor=0D1117)
+![Stars](https://img.shields.io/badge/GitHub_Stars-Growing-FFD700?style=for-the-badge&labelColor=0D1117)
+![Experience](https://img.shields.io/badge/ML_Experience-2+_Years-FF6B6B?style=for-the-badge&labelColor=0D1117)
+![Projects](https://img.shields.io/badge/AI_Projects_Shipped-10+-A855F7?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
