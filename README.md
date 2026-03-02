@@ -194,13 +194,13 @@ Premium animated developer portfolio featuring 3D elements via Three.js, scroll-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saadalikhan8055&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF&ring_color=00FFB3" height="180"/>
+<img src="https://github-readme-stats-plum-alpha-69.vercel.app/api?username=saadalikhan8055&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF&ring_color=00FFB3&cache_seconds=1800" height="180"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saadalikhan8055&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FFB3&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&dates=AAAAAA" height="180"/>
+<img src="https://streak-stats.demolab.com?user=saadalikhan8055&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FFB3&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&dates=AAAAAA" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadalikhan8055&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF&langs_count=10" height="180"/>
+<img src="https://github-readme-stats-plum-alpha-69.vercel.app/api/top-langs/?username=saadalikhan8055&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF&langs_count=10&cache_seconds=1800" height="180"/>
 
 </div>
 
@@ -210,7 +210,7 @@ Premium animated developer portfolio featuring 3D elements via Three.js, scroll-
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=saadalikhan8055&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=saadalikhan8055&theme=onestar&no-frame=true&row=1&column=7&margin-w=10" width="100%"/>
 
 </div>
 
